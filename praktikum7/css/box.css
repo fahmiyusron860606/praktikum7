@@ -1,0 +1,35 @@
+.box1{background-color: red;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 20cm;
+
+}
+
+
+.box2{background-color: yellow;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 20cm;
+}
+
+
+
+.box3{background-color: green;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 20cm;
+}
+
+
+
+.box4{background-color: blue;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 20cm;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+}
